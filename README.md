@@ -6,7 +6,7 @@ I'm a Mathematics graduate with a love for the art of coding and increasing my k
 
 I created this GitHub account to showcase and structure my past and current work in regards to programming.
 
-### I currently have two repositories to show:
+## Key repositories to show:
 
 * [**accelerated-cpp**](https://github.com/dodeleye99/accelerated-cpp): My consolidation of all that I have learned about C++, with the help of the [**Accelerated C++**](https://www.informit.com/store/accelerated-c-plus-plus-practical-programming-by-example-9780201703535) textbook.
 
@@ -18,6 +18,14 @@ I created this GitHub account to showcase and structure my past and current work
     
     ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue")
     ![Pygame](https://img.shields.io/badge/-Pygame-yellow?style=for-the-badge)
+    
+### To be shown at a later date:
+
+* A Java version of the Tetris clone.
+
+* MATLAB code I wrote for my final year University project, focusing on level spacing distributions.
+
+## Skills and Technologies
 
 ### The languages I am most experienced with:
 
@@ -58,3 +66,6 @@ I created this GitHub account to showcase and structure my past and current work
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 
+### Misc.
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)

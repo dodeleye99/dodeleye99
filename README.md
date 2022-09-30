@@ -1,6 +1,4 @@
 # Hi :wave:, I'm Daniel.
-
-![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dodeleye99)
   
 I'm a Mathematics graduate with a love for the art of coding and increasing my knowledge.
 

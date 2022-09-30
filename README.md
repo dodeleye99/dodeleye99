@@ -6,13 +6,15 @@ I created this GitHub account to showcase and structure my past and current work
 
 ## Key repositories to show:
 
-* [**accelerated-cpp**](https://github.com/dodeleye99/accelerated-cpp): My consolidation of all that I have learned about C++, with the help of the [**Accelerated C++**](https://www.informit.com/store/accelerated-c-plus-plus-practical-programming-by-example-9780201703535) textbook.
+* ### [**accelerated-cpp**](https://github.com/dodeleye99/accelerated-cpp)
+    My consolidation of all that I have learned about C++, with the help of the [**Accelerated C++**](https://www.informit.com/store/accelerated-c-plus-plus-practical-programming-by-example-9780201703535) textbook.
 
-    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Make](https://img.shields.io/badge/-Make-red?style=for-the-badge)
-    ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Make](https://img.shields.io/badge/-Make-red?style=for-the-badge)
+  ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
-* [**tetris-python**](https://github.com/dodeleye99/tetris-python): A Tetris clone written in Python, which I developed during my time in A-level Computer Science.
+* ### [**tetris-python**](https://github.com/dodeleye99/tetris-python)
+    A Tetris clone written in Python, which I developed during my time in A-level Computer Science.
     
     ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue")
     ![Pygame](https://img.shields.io/badge/-Pygame-yellow?style=for-the-badge)

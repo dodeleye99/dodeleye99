@@ -42,7 +42,7 @@ I created this GitHub account to showcase and structure my past and current work
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 
-### :video_game: Game engines:
+### :video_game: Game engines I have used:
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Pygame](https://img.shields.io/badge/-Pygame-yellow?style=for-the-badge)

@@ -6,6 +6,19 @@ I'm a Mathematics graduate with a love for the art of coding and increasing my k
 
 I created this GitHub account to showcase and structure my past and current work in regards to programming.
 
+### I currently have two repositories to show:
+
+* [**accelerated-cpp**](../accelerated-cpp): My consolidation of all that I have learned about C++, with the help of the [**Accelerated C++**](https://www.informit.com/store/accelerated-c-plus-plus-practical-programming-by-example-9780201703535) textbook.
+
+    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Make](https://img.shields.io/badge/-Make-red?style=for-the-badge)
+    ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+
+* [**tetris-python**](../tetris-python): A Tetris clone written in Python, which I developed during my time in A-level Computer Science.
+    
+    ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue")
+    ![Pygame](https://img.shields.io/badge/-Pygame-yellow?style=for-the-badge)
+
 ### The languages I am most experienced with:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue")
@@ -13,7 +26,7 @@ I created this GitHub account to showcase and structure my past and current work
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-blue?style=for-the-badge)
 
-Other languages aquainted with include
+### Other languages aquainted with include
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -45,3 +58,4 @@ Other languages aquainted with include
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+

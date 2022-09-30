@@ -4,6 +4,8 @@ I'm a Mathematics graduate with a love for the art of coding and increasing my k
 
 I created this GitHub account to showcase and structure my past and current work in regards to programming.
 
+:mailbox: How to reach me: dodeleye@yahoo.com
+
 ## Key repositories to show:
 
 * ### [**accelerated-cpp**](https://github.com/dodeleye99/accelerated-cpp)

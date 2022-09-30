@@ -1,8 +1,8 @@
 # Hi :wave:, I'm Daniel.
   
-I'm a Mathematics graduate with a love for writing programs and increasing my knowledge.
+I'm a Mathematics graduate with a love for the art of coding and increasing my knowledge.
 
-I created this GitHub account to showcase and structure my past and current work in regards to the art of coding.
+I created this GitHub account to showcase and structure my past and current work in regards to programming.
 
 ### The languages I am most experienced with:
 
@@ -19,6 +19,11 @@ Other languages aquainted with include
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 
+### Game engines:
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Pygame](https://img.shields.io/badge/-Pygame-yellow?style=for-the-badge)
+
 ### IDEs and text editors used:
 
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
@@ -31,7 +36,7 @@ Other languages aquainted with include
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 
-### Computer operating systems used:
+### Computer operating systems:
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)

@@ -1,6 +1,6 @@
 # Hi :wave:, I'm Daniel.
   
-I'm a Mathematics graduate with a love for the art of coding and increasing my knowledge.
+I'm a Mathematics graduate who enjoys practising the art of coding, and increasing my knowledge.
 
 I created this GitHub account to showcase and structure my past and current work in regards to programming.
 

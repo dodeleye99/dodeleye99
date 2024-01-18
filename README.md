@@ -21,12 +21,6 @@ I created this GitHub account to showcase and structure my past and current work
     ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue")
     ![Pygame](https://img.shields.io/badge/-Pygame-yellow?style=for-the-badge)
     
-### To be shown at a later date:
-
-* A Java version of the Tetris clone.
-
-* MATLAB code I wrote for my final year University project, focusing on level spacing distributions.
-
 ## Skills and Technologies
 
 ### The languages I am most experienced with:

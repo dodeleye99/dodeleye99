@@ -8,6 +8,9 @@ I created this GitHub account to showcase and structure my past and current work
 
 ## Key repositories to show:
 
+* ### [**car-rental-system**](https://github.com/dodeleye99/car-rental-system)
+    Consists of source code for an application development project, which involved the implementation of a trivial car rental system through a terminal interface.
+
 * ### [**accelerated-cpp**](https://github.com/dodeleye99/accelerated-cpp)
     My consolidation of all that I have learned about C++, with the help of the [**Accelerated C++**](https://www.informit.com/store/accelerated-c-plus-plus-practical-programming-by-example-9780201703535) textbook.
 

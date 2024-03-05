@@ -11,6 +11,11 @@ I created this GitHub account to showcase and structure my past and current work
 * ### [**car-rental-system**](https://github.com/dodeleye99/car-rental-system)
     Consists of source code for an application development project, which involved the implementation of a trivial car rental system through a terminal interface.
 
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue")
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Conda](https://img.shields.io/badge/conda-%4EAA25.svg?style=for-the-badge&logo=conda&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 * ### [**accelerated-cpp**](https://github.com/dodeleye99/accelerated-cpp)
     My consolidation of all that I have learned about C++, with the help of the [**Accelerated C++**](https://www.informit.com/store/accelerated-c-plus-plus-practical-programming-by-example-9780201703535) textbook.
 
